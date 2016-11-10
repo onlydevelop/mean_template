@@ -1,2 +1,2 @@
-# mean_template
+# template_mean
 A Simple template for MEAN stack
